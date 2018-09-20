@@ -1,2 +1,2 @@
 # webflux
-A small project  to test Spring WebFlux
+A small app  to demonstrate Spring WebFlux
